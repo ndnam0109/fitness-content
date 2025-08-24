@@ -483,5 +483,82 @@
         "advanced": "15 tilts each direction"
       }
     ]
+  },
+  {
+    "name": "Post-Skate Cool-Down",
+    "icon": "figure.cooldown",
+    "color": "cyan",
+    "exercises": [
+      {
+        "section": "Cool-down",
+        "move": "Calf wall stretch",
+        "description": "Stand facing a wall, place ball of one foot on it with heel on ground, lean forward to stretch tight calves after skating",
+        "json_file": "calf_wall_stretch.json",
+        "video_file": "calf_wall_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Calf and ankle stretch",
+        "description": "Comprehensive calf and ankle stretch to release tension from skateboarding stance and push-offs",
+        "json_file": "calf_and_ankle_stretch.json",
+        "video_file": "calf_and_ankle_stretch", 
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Hip flexor stretch",
+        "description": "Lunge position stretch to open tight hip flexors from crouched skateboarding positions",
+        "json_file": "hip_flexor_stretch.json",
+        "video_file": "hip_flexor_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side", 
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Standing crossed-leg hamstring",
+        "description": "Cross one foot in front, hinge forward to stretch hamstrings that work hard during skating",
+        "json_file": "standing_crossed_leg_hamstring.json",
+        "video_file": "standing_crossed_leg_hamstring",
+        "beginner": "Hold 20 s/side", 
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Flamingo stretch", 
+        "description": "Standing quad stretch to release tension in the front of thighs from skateboarding stance",
+        "json_file": "flamingo_stretch.json",
+        "video_file": "flamingo_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Figure-four stretch",
+        "description": "Seated or lying figure-four position to stretch glutes and IT band after skateboarding",
+        "json_file": "figure_four_stretch.json", 
+        "video_file": "figure_four_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Ankle circles",
+        "description": "Gentle ankle rotations to restore mobility and circulation after intensive skateboarding",
+        "json_file": "ankle_circles.json",
+        "video_file": "ankle_circles",
+        "beginner": "6 circles each direction/foot",
+        "intermediate": "8 circles each direction/foot",
+        "advanced": "10 circles each direction/foot" 
+      }
+    ]
   }
 ] 
