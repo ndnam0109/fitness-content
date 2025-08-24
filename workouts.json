@@ -1,42 +1,5 @@
 [
   {
-    "name": "Quick Recovery",
-    "icon": "heart.fill",
-    "color": "pink",
-    "exercises": [
-      {
-        "section": "Warm-up",
-        "move": "Ankle circles",
-        "description": "Sit or stand, lift one foot off the ground, rotate the ankle in big circles clockwise then counterclockwise",
-        "json_file": "ankle_circles.json",
-        "video_file": "ankle_circles",
-        "beginner": "8 each direction/foot (1 round)",
-        "intermediate": "10 each direction/foot (1 round)",
-        "advanced": "12 each direction/foot (1 round)"
-      },
-      {
-        "section": "Main",
-        "move": "Glute bridges",
-        "description": "Lie on your back with knees bent, lift hips by squeezing your glutes until your body forms a straight line",
-        "json_file": "glute_bridges.json",
-        "video_file": "glute_bridges",
-        "beginner": "10 reps (1 round)",
-        "intermediate": "12 reps (2 rounds)",
-        "advanced": "15 reps (2 rounds)"
-      },
-      {
-        "section": "Cool-down",
-        "move": "Figure four stretch",
-        "description": "Lying on back, cross one ankle over opposite knee, pull thigh toward chest to stretch hip and glute",
-        "json_file": "figure_four_stretch.json",
-        "video_file": "figure_four_stretch",
-        "beginner": "Hold 20 s/side",
-        "intermediate": "Hold 30 s/side",
-        "advanced": "Hold 45 s/side"
-      }
-    ]
-  },
-  {
     "name": "Full Body Workout",
     "icon": "figure.strengthtraining.traditional",
     "color": "blue",
