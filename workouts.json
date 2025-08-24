@@ -376,5 +376,112 @@
         "advanced": "Hold 45 s/side"
       }
     ]
+  },
+  {
+    "name": "Pre-Skate Warm-Up",
+    "icon": "figure.skateboarding",
+    "color": "green",
+    "exercises": [
+      {
+        "section": "Warm-up",
+        "move": "Ankle circles",
+        "description": "Stand tall, lift one foot off the ground, rotate the ankle in big circles clockwise then counterclockwise to prepare for board control",
+        "json_file": "ankle_circles.json",
+        "video_file": "ankle_circles",
+        "beginner": "8 each direction/foot",
+        "intermediate": "10 each direction/foot", 
+        "advanced": "12 each direction/foot"
+      },
+      {
+        "section": "Warm-up",
+        "move": "Ankle rocks",
+        "description": "Rock forward and backward on your toes and heels to activate ankle mobility for skateboarding stance",
+        "json_file": "ankle_rocks.json",
+        "video_file": "ankle_rocks",
+        "beginner": "10 rocks forward/back",
+        "intermediate": "12 rocks forward/back",
+        "advanced": "15 rocks forward/back"
+      },
+      {
+        "section": "Warm-up", 
+        "move": "Standing weight shifts",
+        "description": "Shift weight from one foot to the other in skateboarding stance to prepare for balance and transitions",
+        "json_file": "standing_weight_shifts.json",
+        "video_file": "standing_weight_shifts",
+        "beginner": "10 shifts each way",
+        "intermediate": "12 shifts each way",
+        "advanced": "15 shifts each way"
+      },
+      {
+        "section": "Warm-up",
+        "move": "Knee hug turns", 
+        "description": "Standing knee hug with rotation through the hip to open up hip mobility for skateboarding movements",
+        "json_file": "knee_hug_turns.json",
+        "video_file": "knee_hug_turns",
+        "beginner": "6 reps each side",
+        "intermediate": "8 reps each side",
+        "advanced": "10 reps each side"
+      },
+      {
+        "section": "Main",
+        "move": "Single leg board stance",
+        "description": "Practice single-leg balance on a balance board to mimic skateboard control and stability",
+        "json_file": "single_leg_board_stance.json", 
+        "video_file": "single_leg_board_stance",
+        "beginner": "20 seconds each leg",
+        "intermediate": "30 seconds each leg",
+        "advanced": "45 seconds each leg"
+      },
+      {
+        "section": "Main",
+        "move": "Ice skaters",
+        "description": "Lateral jumping movement that mimics the pumping motion used in skateparks and transitions",
+        "json_file": "ice_skaters.json",
+        "video_file": "ice_skaters", 
+        "beginner": "10 jumps each side",
+        "intermediate": "12 jumps each side", 
+        "advanced": "15 jumps each side"
+      },
+      {
+        "section": "Main",
+        "move": "Single leg bounds",
+        "description": "Explosive single-leg hops to build power and stability for skateboarding landings and ollies",
+        "json_file": "single_leg_bounds.json",
+        "video_file": "single_leg_bounds",
+        "beginner": "6 bounds each leg",
+        "intermediate": "8 bounds each leg", 
+        "advanced": "10 bounds each leg"
+      },
+      {
+        "section": "Main",
+        "move": "Lateral banded walk",
+        "description": "Side-to-side movement with resistance band to strengthen hip abductors crucial for skateboard control",
+        "json_file": "lateral_banded_walk.json",
+        "video_file": "lateral_banded_walk",
+        "beginner": "10 steps each way",
+        "intermediate": "12 steps each way",
+        "advanced": "15 steps each way"
+      },
+      {
+        "section": "Main",
+        "move": "Calf raises",
+        "description": "Rise up on your toes to strengthen calves and improve push-off power for skateboarding",
+        "json_file": "calf_raises.json",
+        "video_file": "calf_raises", 
+        "beginner": "12 reps",
+        "intermediate": "15 reps",
+        "advanced": "20 reps"
+      },
+      {
+        "section": "Main", 
+        "move": "Balance board tilts",
+        "description": "Rock side-to-side on balance board to develop proprioception and board control skills",
+        "json_file": "balance_board_tilts.json",
+        "video_file": "balance_board_tilts",
+        "beginner": "10 tilts each direction",
+        "intermediate": "12 tilts each direction", 
+        "advanced": "15 tilts each direction"
+      }
+    ]
   }
 ] 
