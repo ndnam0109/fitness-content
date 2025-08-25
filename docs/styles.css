@@ -584,7 +584,21 @@ footer {
     }
     
     .difficulty-levels {
-        flex-direction: column;
+        flex-direction: row;
+        gap: 0.5rem;
+    }
+    
+    .difficulty-badge {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.9rem;
+    }
+    
+    .difficulty-name {
+        font-size: 0.85rem;
+    }
+    
+    .difficulty-desc {
+        font-size: 0.75rem;
     }
     
     .workout-cards {
