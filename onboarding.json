@@ -1,0 +1,120 @@
+{
+  "onboarding": {
+    "welcome": {
+      "icon": "skater_icon",
+      "title": "Welcome to SkateFit",
+      "subtitle": "Skateboarding-Specific Fitness",
+      "description": "Build the strength, balance and mobility you need to train like a skater and progress like a pro.",
+      "features": [
+        {
+          "icon": "target",
+          "title": "Skate-Specific Training",
+          "description": "Exercises designed for skateboarding strength and balance",
+          "color": "mint"
+        },
+        {
+          "icon": "star.fill",
+          "title": "3 Difficulty Levels",
+          "description": "Progress from beginner to advanced at your own pace",
+          "color": "blue"
+        },
+        {
+          "icon": "play.rectangle.fill",
+          "title": "Follow-Along Videos",
+          "description": "Crystal clear demonstrations for every exercise",
+          "color": "purple"
+        },
+        {
+          "icon": "clock.fill",
+          "title": "Quick Sessions",
+          "description": "Get stronger in just 25-35 minutes",
+          "color": "orange"
+        }
+      ]
+    },
+    "difficulty": {
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Difficulty Levels",
+      "description": "Each workout has three difficulty options. Choose any level when you start a workout session.",
+      "proTip": "Select your preferred difficulty each time you start a workout",
+      "cards": [
+        {
+          "icon": null,
+          "title": "Beginner",
+          "description": "Perfect for getting started. Lower repetitions and lighter weights to build foundation and form.",
+          "color": "mint"
+        },
+        {
+          "icon": null,
+          "title": "Intermediate",
+          "description": "Step up your game. Moderate repetitions and medium weights to build strength and endurance.",
+          "color": "blue"
+        },
+        {
+          "icon": null,
+          "title": "Advanced",
+          "description": "Challenge yourself. Higher repetitions and heavy weights for maximum gains and performance.",
+          "color": "purple"
+        }
+      ]
+    },
+    "equipment": {
+      "icon": "dumbbell.fill",
+      "title": "What You'll Need",
+      "description": "Simple equipment you probably already have or can easily get.",
+      "proTip": "Missing equipment? No worries! Every exercise has alternatives.",
+      "cards": [
+        {
+          "icon": "circle.dashed",
+          "title": "Resistance Bands",
+          "description": "Light, medium, and heavy resistance",
+          "color": "mint"
+        },
+        {
+          "icon": "dumbbell.fill",
+          "title": "Dumbbells",
+          "description": "5-20 lbs adjustable weights",
+          "color": "blue"
+        },
+        {
+          "icon": "circle.fill",
+          "title": "Medicine Ball",
+          "description": "6-12 lbs for core work",
+          "color": "purple"
+        },
+        {
+          "icon": "square.stack.3d.up",
+          "title": "Step/Box",
+          "description": "For step-ups and balance",
+          "color": "orange"
+        }
+      ]
+    },
+    "tutorial": {
+      "icon": "play.rectangle.fill",
+      "title": "Using Your Workouts",
+      "description": "Simple gestures to navigate through your training sessions.",
+      "proTip": "Watch the entire exercise once before starting to understand the movement pattern.",
+      "cards": [
+        {
+          "icon": "hand.draw",
+          "title": "Swipe Between Exercises (← →)",
+          "description": "Swipe left or right to move through your workout exercises",
+          "color": "blue"
+        },
+        {
+          "icon": "hand.tap.fill",
+          "title": "Long Press for Details (HOLD)",
+          "description": "Long press on the video to see detailed exercise instructions",
+          "color": "purple"
+        },
+        {
+          "icon": "arrow.down.circle.fill",
+          "title": "Swipe Down to Exit (↓)",
+          "description": "Swipe down to leave your workout and return to the main screen",
+          "color": "orange"
+        }
+      ]
+    }
+  }
+}
