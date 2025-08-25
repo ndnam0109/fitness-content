@@ -40,10 +40,22 @@ header {
     height: 70px;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.logo-icon {
+    width: 32px;
+    height: 32px;
+}
+
 .logo h1 {
     font-size: 1.5rem;
     font-weight: 700;
     color: #667eea;
+    margin: 0;
 }
 
 .nav-links {
@@ -415,8 +427,21 @@ footer {
     margin-bottom: 2rem;
 }
 
-.footer-left h3 {
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
     margin-bottom: 0.5rem;
+}
+
+.footer-logo-icon {
+    width: 28px;
+    height: 28px;
+    opacity: 0.9;
+}
+
+.footer-left h3 {
+    margin: 0;
 }
 
 .footer-links {
