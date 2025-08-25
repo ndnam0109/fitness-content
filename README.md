@@ -8,11 +8,21 @@ This repository contains all dynamic content for the SkateFit iOS app, including
 skate-fit-files/
 ├── workouts.json          # Complete workout database
 ├── onboarding.json        # Onboarding flow content
+├── PRIVACY_POLICY.md      # App privacy policy
 ├── videos/                # Exercise demonstration videos
-│   ├── warm_up/          # Warm-up exercise videos
-│   ├── main_workout/     # Main exercise videos
-│   └── cool_down/        # Cool-down exercise videos
-└── README.md             # This file
+│   ├── ankle_circles.mp4  # Individual exercise videos
+│   ├── glute_bridges.mp4  # Organized by exercise name
+│   └── ...                # 50+ exercise demonstrations
+├── screenshots/           # App Store screenshots
+│   ├── 01_workout_browser.png    # iPhone screenshots
+│   ├── iPad_01_onboarding.png    # iPad screenshots
+│   └── ...                       # Marketing assets
+├── docs/                  # Website files (GitHub Pages)
+│   ├── index.html         # SkateFit website homepage
+│   ├── styles.css         # Website styling
+│   ├── script.js          # Website interactivity
+│   └── skater_icon.png    # Website logo
+└── README.md              # This documentation
 ```
 
 ## 📋 Content Files
@@ -90,6 +100,25 @@ Dynamic onboarding flow content for new users.
 - **Difficulty Guide**: Explanation of beginner/intermediate/advanced levels
 - **Equipment Overview**: Required equipment with alternatives
 - **Tutorial**: How to navigate and use workout videos
+
+## 🌐 Website
+
+The `docs/` folder contains a professional website for the SkateFit app, hosted via GitHub Pages.
+
+**Website URL**: [https://banddude.github.io/skate-fit-files/](https://banddude.github.io/skate-fit-files/)
+
+### Website Features
+- **Professional Design**: Modern, responsive layout optimized for all devices
+- **App Marketing**: Hero section with feature highlights and App Store download
+- **Screenshot Gallery**: Interactive showcase of iPhone and iPad app screenshots  
+- **Privacy Focus**: Dedicated section highlighting zero data collection
+- **SEO Optimized**: Proper meta tags and structured content for search engines
+
+### Website Files
+- `index.html` - Homepage with all sections and content
+- `styles.css` - Responsive CSS with clean, professional styling
+- `script.js` - Interactive elements and smooth scrolling navigation
+- `skater_icon.png` - SkateFit logo used throughout the website
 
 ## 🎥 Video Content
 
