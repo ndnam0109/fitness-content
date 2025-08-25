@@ -70,15 +70,12 @@ header {
     font-weight: 600;
     transition: all 0.3s ease;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
-    background: rgba(0, 0, 0, 0.2);
     padding: 8px 12px;
-    border-radius: 6px;
 }
 
 .nav-links a:hover {
-    color: white;
+    color: #3b82f6;
     text-shadow: 0 2px 6px rgba(0, 0, 0, 0.9);
-    background: rgba(0, 0, 0, 0.4);
     transform: translateY(-1px);
 }
 
@@ -120,7 +117,7 @@ header {
 .hero-icon {
     width: 120px;
     height: 120px;
-    margin: 0 auto 2rem;
+    margin: 0 auto 1rem;
     opacity: 0.9;
 }
 
@@ -450,15 +447,15 @@ header {
     margin-bottom: 0.75rem;
     color: rgba(255, 255, 255, 0.9);
     position: relative;
-    padding-left: 1.5rem;
+    display: inline-block;
+    text-align: left;
 }
 
 .privacy-features li::before {
-    content: '✓';
-    position: absolute;
-    left: 0;
+    content: '✓ ';
     color: #14b8a6;
     font-weight: bold;
+    margin-right: 0.5rem;
 }
 
 .privacy-link {
